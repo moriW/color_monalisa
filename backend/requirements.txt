@@ -1,0 +1,5 @@
+tornado==6.1
+motor==2.5.1
+jinja2==3.0.3
+schema==0.7.5
+git+https://github.com/moriW/moreover.git
